@@ -1,0 +1,25 @@
+{
+  "todolists": [
+    {
+      "id": 4,
+      "todoName": "Restaurant",
+      "note": "Eating with my Gees",
+      "priority": "Medium",
+      "date": "2021-09-08"
+    },
+    {
+      "todoName": "Hello people",
+      "note": "Hello People Of Faith",
+      "priority": "Low",
+      "date": "2021-09-10",
+      "id": 7
+    },
+    {
+      "todoName": "Jogging ",
+      "note": "Hello People. I'm going for a jog today",
+      "priority": "Medium",
+      "date": "2021-09-30",
+      "id": 8
+    }
+  ]
+}
